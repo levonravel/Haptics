@@ -28,7 +28,10 @@ namespace Haptic
                 {
                     _ports[i].Open();
                 }
-                catch { }
+                catch 
+                {
+                    _ports.RemoveAt(i);
+                }
             }
         }
         

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "60392c94-482c-4275-bea4-64949aa60c76": {
+      "ProjectGuid": "60392c94-482c-4275-bea4-64949aa60c76",
+      "DisplayName": "Haptic",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
